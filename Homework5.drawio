@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T02:27:08.985Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="Cyq5NXPQaFybHqtl2h3d" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T02:29:48.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="-gWEE7bJn5SRIl4a8yl_" version="13.9.2" type="github">
   <diagram id="g0biR_JautmCEhP8nTA4" name="Page-1">
     <mxGraphModel dx="1117" dy="4026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
             <mxPoint x="-41" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4EBb9_S77bTPxn-zLxTV-1" value="Edge Location" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;" vertex="1" parent="1">
+        <mxCell id="4EBb9_S77bTPxn-zLxTV-1" value="Edge Locations" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;" vertex="1" parent="1">
           <mxGeometry x="920" y="-161" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="4EBb9_S77bTPxn-zLxTV-8" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.elastic_block_store;" vertex="1" parent="1">
